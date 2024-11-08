@@ -1,0 +1,5 @@
+Flask
+hdbcli
+google-generativeai
+hana-ml
+flask-cors
